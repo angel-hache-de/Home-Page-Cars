@@ -1,5 +1,8 @@
   # Car rental home page
   Simple home page
   
-  #Live demo
+  ## Techs
+  React
+  
+  ## Live demo
 [cars](https://cars-rental-angel.herokuapp.com/)
